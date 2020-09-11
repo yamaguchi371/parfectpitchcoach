@@ -2,8 +2,8 @@
 
 /*---------------------------------------------------------------------------------
 
-	Theme Name: default
-	Description: default
+	Theme Name: 絶対音感コーチ学会
+	Description: 絶対音感コーチ学会
 	Author: template
 	
 -----------------------------------------------------------------------------------
@@ -314,10 +314,34 @@ img {
 
 
 /* -------------------------------------------------------------------------------- */
-/*	11.	Blog
+/*	11.	page
 /* -------------------------------------------------------------------------------- */
-
-
+.heading-lg {
+	border-top: 1px dotted #ccc;
+	border-bottom: 1px dotted #ccc;
+    padding: 25px 0px;
+}
+.heading-md {
+    font-size: 16px;
+    border: 3px solid #BFE9FF;
+	background: #DFF4FF;    
+}
+.heading-sm {
+    border-left: 10px solid rgba(197,23,44,1);
+	padding: 0 0 0 10px; 
+    margin-top: 50px;
+}
+.kitou-card-box {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin: 0 auto;
+    border: none;
+}
+.kitou-card-box .card-text {
+    font-size: 16px;
+    letter-spacing: .1em;
+    line-height: 1.8;
+}
 /* -------------------------------------------------------------------------------- */
 /*	12.	Sidebar
 /* -------------------------------------------------------------------------------- */
@@ -331,5 +355,7 @@ img {
 /* -------------------------------------------------------------------------------- */
 /*	14.	Color
 /* -------------------------------------------------------------------------------- */
-
+.bg-gray {
+    background: #efefef !important;
+}
 
