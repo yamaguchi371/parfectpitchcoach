@@ -330,10 +330,12 @@ img {
     border-left: 10px solid rgba(197,23,44,1);
 	padding: 0 0 0 10px; 
     margin-top: 50px;
+    margin-bottom: 50px;
+}
+.kitou-top-box,.kitou-second-box,.kitou-third-box {
+    padding-bottom: 50px;
 }
 .kitou-card-box {
-    padding-top: 50px;
-    padding-bottom: 100px;
     margin: 0 auto;
     border: none;
 }
@@ -341,6 +343,39 @@ img {
     font-size: 16px;
     letter-spacing: .1em;
     line-height: 1.8;
+}
+.kitou-list {
+    margin: 0 auto;
+}
+.kitou-list li {
+    font-size: 16px;
+    letter-spacing: .1em;
+    line-height: 1.8;
+    padding: 15px 0;
+}
+.kitou-btn-box {
+    padding: 50px 0px;
+}
+.kitou-btn {
+    display: inline-block;
+    color: #fff !important;
+    font-size: 18px;
+    margin: 0;
+    padding: 12px 24px;
+    background-color: #cf2e2e;
+    border: 2px solid #cf2e2e;
+    border-radius: 28px;
+    box-shadow: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    overflow-wrap: break-word;
+    transition: .3s;
+}
+.kitou-btn:hover {
+    color: #cf2e2e !important;
+    background-color: #fff;
+    transition: .3s;
 }
 /* -------------------------------------------------------------------------------- */
 /*	12.	Sidebar

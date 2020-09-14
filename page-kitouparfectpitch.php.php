@@ -19,7 +19,7 @@ Template Name: 鬼頭流絶対音感
 
 <div class="container">
     <div class="row">
-        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 kitou-top-box">
             <h3 class="heading-sm">音楽も子育ても「家族一緒に」</h3>
             <div class="card kitou-card-box" style="max-width: 900px;">
                 <div class="row no-gutters">
@@ -34,9 +34,9 @@ Template Name: 鬼頭流絶対音感
                 </div>
             </div>
         </div>
-        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 kitou-second-box">
             <h3 class="heading-sm">鬼頭式絶対音感メソッドでこんな変化が起こっています</h3>
-            <div style="max-width: 800px;">
+            <div class="kitou-list" style="max-width: 800px;">
                 <ul>
                     <li>音がわかるようになり、鍵盤を弾きたがるようになった</li>
                     <li>リズム感が身について難しいリズムも取れるようになった</li>
@@ -65,6 +65,25 @@ Template Name: 鬼頭流絶対音感
                     <li>パパは休日になるとレッスンを一緒にしたり、褒めてくれたりするのが息子はとても嬉しいようです</li>
                     <li>最初はパパと一緒にレッスンしていましたが途中からパパは全くわからなくなり娘のことをすごく感心しています。</li>
                 </ul>
+            </div>
+        </div>
+        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 kitou-third-box">
+            <h3 class="heading-sm">絶対音感コーチ学会®BASIC検定</h3>
+            <div class="card kitou-card-box" style="max-width: 900px;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="<?php echo esc_url( get_theme_file_uri('images/kitouparfectpitch/card-img2.jpg') ); ?>" class="card-img" alt="イメージ画像">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <p class="card-text">一般社団法人絶対音感コーチ学会®では鬼頭式絶対音感メソッドが正しく身につけているか検定を行なっています。<br>そのため認定校の生徒様はご入会と同時に絶対音感コーチ学会®へご登録いただきIDが発行されます。絶対音感コーチ学会®検定基準に達するまでコツコツとレッスンしましょう。<br><br>検定基準に達しましたら認定校の先生を通じ検定のお申し込みができます。絶対音感BASIC検定は当学会の代表理事である鬼頭が行います。<br><br>合格されますと、合格証（詳細メッセージ付き）を発行致します。検定で足りない部分、再度確認が必要な部分は先生へ課題としてお伝え致します。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <p class="text-left d-inline-block">1ヶ月以内に再受験できます。※1ヶ月以内なら受験料は無料。<br>1ヶ月を超えた場合は再度受験料をいただきます。<br><br>絶対音感BASIC検定 &emsp;受験料&emsp;お一人&ensp;10,000円（税抜）</p>
+                <div class="kitou-btn-box"><a class="kitou-btn">絶対音感とは</a></div>
             </div>
         </div>
     </div>
