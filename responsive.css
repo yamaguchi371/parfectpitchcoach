@@ -17,7 +17,7 @@
 	7.	Top Page
 	8.	Archive Page
 	9.	Single Page
-	10.	Blog
+	10.	page
 	11.	Sidebar
 	12.	Footer
 
@@ -78,9 +78,51 @@
 
 
 /* -------------------------------------------------------------------------------- */
-/*	10. Blog
+/*	10. page
 /* -------------------------------------------------------------------------------- */
-
+@media screen and (max-width: 575.98px) {
+    .heading-sm {
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .kitou-top-box {
+        margin-top: 20px;
+    }
+    .kitou-second-box ul,.attendance {
+        padding: 1.25rem
+    }
+    .attendance {
+        padding-top: 2rem;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+   .heading-sm {
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .kitou-top-box {
+        margin-top: 20px;
+    }
+    .kitou-second-box ul,.attendance {
+        padding: 1.25rem
+    }
+    .attendance {
+        padding-top: 2rem;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .kitou-second-box ul {
+        padding: 1.25rem
+    }
+    .kitou-top-box .card-body,.kitou-third-box .card-body {
+        padding: 0 1.25rem;
+    }
+    .kitou-third-box .card-body {
+        padding-bottom: 2.25rem;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {}
+@media screen and (min-width:1200px) {}
 
 /* -------------------------------------------------------------------------------- */
 /*	11. Sidebar

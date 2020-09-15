@@ -19,7 +19,7 @@
 	8.	Top Page
 	9.	Archive Page
 	10.	Single Page
-	11.	Blog
+	11.	page
 	12.	Sidebar
 	13.	Footer
 	14. Color
@@ -329,8 +329,7 @@ img {
 .heading-sm {
     border-left: 10px solid rgba(197,23,44,1);
 	padding: 0 0 0 10px; 
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin: 50px 0;
 }
 .kitou-top-box,.kitou-second-box,.kitou-third-box {
     padding-bottom: 50px;
@@ -339,7 +338,7 @@ img {
     margin: 0 auto;
     border: none;
 }
-.kitou-card-box .card-text {
+.kitou-card-box .card-text,.kitou-second-box li,.kitou-third-box p  {
     font-size: 16px;
     letter-spacing: .1em;
     line-height: 1.8;
@@ -348,9 +347,6 @@ img {
     margin: 0 auto;
 }
 .kitou-list li {
-    font-size: 16px;
-    letter-spacing: .1em;
-    line-height: 1.8;
     padding: 15px 0;
 }
 .kitou-btn-box {
@@ -361,7 +357,7 @@ img {
     color: #fff !important;
     font-size: 18px;
     margin: 0;
-    padding: 12px 24px;
+    padding: 12px 40px;
     background-color: #cf2e2e;
     border: 2px solid #cf2e2e;
     border-radius: 28px;

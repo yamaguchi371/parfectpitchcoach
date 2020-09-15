@@ -28,7 +28,7 @@ Template Name: 鬼頭流絶対音感
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <p class="card-text">鬼頭流絶対音感メソッドでは親子、家族で「絶対音感」を通して「家族の絆」を深めていただくことを重視したレッスンを行なっております。お子様が絶対音感を身につけるレッスンでご両親にも「親子コミュニケーションの力」を育んでいただきお子様と一緒に成長する親御さんであってほしいとの思いでメソッドを考案しました。</p>
+                            <p class="card-text">鬼頭流絶対音感メソッドでは親子、家族で「絶対音感」を通して「家族の絆」を深めていただくことを重視したレッスンを行なっております。<br class="d-block d-md-none">お子様が絶対音感を身につけるレッスンでご両親にも「親子コミュニケーションの力」を育んでいただきお子様と一緒に成長する親御さんであってほしいとの思いでメソッドを考案しました。</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ Template Name: 鬼頭流絶対音感
                 </div>
             </div>
             <div class="text-center">
-                <p class="text-left d-inline-block">1ヶ月以内に再受験できます。※1ヶ月以内なら受験料は無料。<br>1ヶ月を超えた場合は再度受験料をいただきます。<br><br>絶対音感BASIC検定 &emsp;受験料&emsp;お一人&ensp;10,000円（税抜）</p>
+                <p class="text-left d-inline-block attendance">1ヶ月以内に再受験できます。※1ヶ月以内なら受験料は無料。<br>1ヶ月を超えた場合は再度受験料をいただきます。<br><br>絶対音感BASIC検定 &emsp;受験料&emsp;お一人&ensp;10,000円（税抜）</p>
                 <div class="kitou-btn-box"><a class="kitou-btn">絶対音感とは</a></div>
             </div>
         </div>
