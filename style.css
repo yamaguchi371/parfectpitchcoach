@@ -352,6 +352,9 @@ img {
 .kitou-btn-box {
     padding: 50px 0px;
 }
+.attendance {
+    font-weight: 500;
+}
 .kitou-btn {
     display: inline-block;
     color: #fff !important;

@@ -81,6 +81,9 @@
 /*	10. page
 /* -------------------------------------------------------------------------------- */
 @media screen and (max-width: 575.98px) {
+    .heading-lg  {
+        font-weight: 24px;
+    }
     .heading-sm {
         font-size: 20px;
         margin: 20px 0;
@@ -96,7 +99,10 @@
     }
 }
 @media screen and (min-width: 576px) and (max-width: 767.98px) {
-   .heading-sm {
+    .heading-lg  {
+        font-weight: 24px;
+    }
+    .heading-sm {
         font-size: 20px;
         margin: 20px 0;
     }
