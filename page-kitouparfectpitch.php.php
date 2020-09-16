@@ -21,14 +21,14 @@ Template Name: 鬼頭流絶対音感
     <div class="row">
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 kitou-top-box">
             <h3 class="heading-sm">音楽も子育ても「家族一緒に」</h3>
-            <div class="card kitou-card-box" style="max-width: 900px;">
+            <div class="card kitou-card-box">
                 <div class="row no-gutters">
                     <div class="col-md-4">
                         <img src="<?php echo esc_url( get_theme_file_uri('images/kitouparfectpitch/card-img1.jpg') ); ?>" class="card-img" alt="イメージ画像">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <p class="card-text">鬼頭流絶対音感メソッドでは親子、家族で「絶対音感」を通して「家族の絆」を深めていただくことを重視したレッスンを行なっております。<br class="d-block d-lg-none">お子様が絶対音感を身につけるレッスンでご両親にも「親子コミュニケーションの力」を育んでいただきお子様と一緒に成長する親御さんであってほしいとの思いでメソッドを考案しました。</p>
+                            <p class="card-text">鬼頭流絶対音感メソッドでは親子、家族で「絶対音感」を通して「家族の絆」を深めていただくことを重視したレッスンを行なっております。<br>お子様が絶対音感を身につけるレッスンでご両親にも「親子コミュニケーションの力」を育んでいただきお子様と一緒に成長する親御さんであってほしいとの思いでメソッドを考案しました。</p>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ Template Name: 鬼頭流絶対音感
         </div>
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 kitou-third-box">
             <h3 class="heading-sm">絶対音感コーチ学会®BASIC検定</h3>
-            <div class="card kitou-card-box" style="max-width: 900px;">
+            <div class="card kitou-card-box">
                 <div class="row no-gutters">
                     <div class="col-md-4">
                         <img src="<?php echo esc_url( get_theme_file_uri('images/kitouparfectpitch/card-img2.jpg') ); ?>" class="card-img" alt="イメージ画像">

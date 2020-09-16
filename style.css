@@ -335,16 +335,12 @@ img {
     padding-bottom: 50px;
 }
 .kitou-card-box {
-    margin: 0 auto;
     border: none;
 }
 .kitou-card-box .card-text,.kitou-second-box li,.kitou-third-box p  {
     font-size: 16px;
     letter-spacing: .1em;
     line-height: 1.8;
-}
-.kitou-list {
-    margin: 0 auto;
 }
 .kitou-list li {
     padding: 15px 0;
