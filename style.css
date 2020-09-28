@@ -326,6 +326,9 @@ img {
     border: 3px solid #BFE9FF;
 	background: #DFF4FF;    
 }
+.overview-box p {
+    font-size: 16px;
+}
 .heading-sm {
     border-left: 10px solid rgba(197,23,44,1);
 	padding: 0 0 0 10px; 
@@ -371,6 +374,9 @@ img {
     color: #cf2e2e !important;
     background-color: #fff;
     transition: .3s;
+}
+.overview-box .section1 div {
+    padding-top: 20px;
 }
 /* -------------------------------------------------------------------------------- */
 /*	12.	Sidebar
