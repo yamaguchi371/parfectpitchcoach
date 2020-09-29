@@ -375,6 +375,27 @@ img {
     background-color: #fff;
     transition: .3s;
 }
+.kitou-btn2 {
+    display: inline-block;
+    color: #fff !important;
+    font-size: 18px;
+    margin: 0;
+    padding: 12px 40px;
+    background-color: #020c60;
+    border: 2px solid #020c60;
+    border-radius: 28px;
+    box-shadow: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    overflow-wrap: break-word;
+    transition: .3s;
+}
+.kitou-btn2:hover {
+    color: #020c60 !important;
+    background-color: #fff;
+    transition: .3s;
+}
 .overview-box .section1 div {
     padding-top: 20px;
 }
