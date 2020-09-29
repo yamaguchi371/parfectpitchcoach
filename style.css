@@ -354,7 +354,7 @@ img {
 .attendance {
     font-weight: 500;
 }
-.kitou-btn {
+.kitou-btn, .wpcf7-submit {
     display: inline-block;
     color: #fff !important;
     font-size: 18px;
@@ -370,7 +370,7 @@ img {
     overflow-wrap: break-word;
     transition: .3s;
 }
-.kitou-btn:hover {
+.kitou-btn:hover, .wpcf7-submit:hover {
     color: #cf2e2e !important;
     background-color: #fff;
     transition: .3s;
