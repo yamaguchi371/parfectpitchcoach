@@ -326,24 +326,32 @@ img {
     border: 3px solid #BFE9FF;
 	background: #DFF4FF;    
 }
-.overview-box p {
-    font-size: 16px;
-}
 .heading-sm {
     border-left: 10px solid rgba(197,23,44,1);
 	padding: 0 0 0 10px; 
     margin: 50px 0;
+}
+.url {
+    text-decoration: none !important;
+}
+.overview-box .url {
+    color: #1155cc;
+    transition: .3s;
+}
+.overview-box .url:hover {
+    opacity: .6;
+    transition: .3s
+}
+.kitou-card-box .card-text,.kitou-second-box li,.kitou-third-box p,.overview-box p,.overview-box td  {
+    font-size: 16px;
+    letter-spacing: .1em;
+    line-height: 1.8;
 }
 .kitou-top-box,.kitou-second-box,.kitou-third-box {
     padding-bottom: 50px;
 }
 .kitou-card-box {
     border: none;
-}
-.kitou-card-box .card-text,.kitou-second-box li,.kitou-third-box p  {
-    font-size: 16px;
-    letter-spacing: .1em;
-    line-height: 1.8;
 }
 .kitou-list li {
     padding: 15px 0;
@@ -354,7 +362,7 @@ img {
 .attendance {
     font-weight: 500;
 }
-.kitou-btn, .wpcf7-submit {
+.kitou-btn {
     display: inline-block;
     color: #fff !important;
     font-size: 18px;
@@ -370,34 +378,23 @@ img {
     overflow-wrap: break-word;
     transition: .3s;
 }
-.kitou-btn:hover, .wpcf7-submit:hover {
+.kitou-btn:hover {
     color: #cf2e2e !important;
     background-color: #fff;
     transition: .3s;
 }
-.kitou-btn2 {
-    display: inline-block;
-    color: #fff !important;
-    font-size: 18px;
-    margin: 0;
-    padding: 12px 40px;
-    background-color: #020c60;
-    border: 2px solid #020c60;
-    border-radius: 28px;
-    box-shadow: none;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    overflow-wrap: break-word;
-    transition: .3s;
+.overview-box .section1,.overview-box .section2 {
+    padding-bottom: 50px;
 }
-.kitou-btn2:hover {
-    color: #020c60 !important;
-    background-color: #fff;
-    transition: .3s;
-}
-.overview-box .section1 div {
+.overview-box .section1 div,.overview-box .section2 div,.overview-box .section3 div {
     padding-top: 20px;
+}
+.overview-box .kitou-btn-box {
+    padding-top: 80px !important;
+}
+.table td,.table th {
+    padding: .5rem;
+    border: none;
 }
 /* -------------------------------------------------------------------------------- */
 /*	12.	Sidebar
