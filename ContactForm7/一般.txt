@@ -1,0 +1,17 @@
+<label> お名前 *
+    [text* your-name] </label>
+
+<label> メールアドレス *
+    [email* your-email] </label>
+
+<label> ご住所 *
+    [email* your-address] </label>
+
+<label> 件名 *
+    <span class="wpcf7-form-control-wrap radio-title"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><input type="radio" name="radio-title" value="オンライン講座" checked="checked" /><span class="wpcf7-list-item-label">オンライン講座</span></span><span class="wpcf7-list-item"><input type="radio" name="radio-title" value="お子様向け子供を賢くする講座、教室をしたい方" /><span class="wpcf7-list-item-label">お子様向け子供を賢くする講座、教室をしたい方</span></span><br><span class="wpcf7-list-item"><input type="radio" name="radio-title" value="ピアノ先生向けBASICコーチ希望" /><span class="wpcf7-list-item-label">ピアノ先生向けBASICコーチ希望</span></span><span class="wpcf7-list-item last"><input type="radio" name="radio-title" value="その他" /><span class="wpcf7-list-item-label">その他</span></span></span></span> </label>
+
+<label> お問い合わせ内容 *
+    [textarea* your-message] </label>
+[acceptance acceptance-846] <a href="/privacypolicy">プライバシーポリシー</a>が適用されます（承諾確認） [/acceptance]
+[submit "送信"]
+* は入力必須項目です

@@ -1,0 +1,28 @@
+<label> 貴社名 *
+    [text* your-syamei] </label>
+
+<label> 部署名 *
+    [text* your-busyo] </label>
+
+<label> ご担当者お名前 *
+    [text* your-tantou] </label>
+
+<label> お名前 (ふりがな) *
+    [text* your-kana] </label>
+
+<label> メールアドレス *
+    [email* your-email] </label>
+
+<label> お電話番号 *
+    [text* your-tel] </label>
+
+<label> ご住所 *
+    [text* your-address] </label>
+
+<label> お問い合わせ内容 *
+    [textarea* your-message] </label>
+
+[acceptance acceptance-845] <a href="/privacypolicy">プライバシーポリシー</a>が適用されます（承諾確認） [/acceptance]
+
+[submit "送信"]
+*は入力必須項目です。
