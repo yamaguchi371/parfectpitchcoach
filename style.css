@@ -395,7 +395,7 @@ img {
 .overview-box .kitou-btn-box {
     padding-top: 80px !important;
 }
-.table td,.table th {
+.overview-box .table td,.overview-box .table th {
     padding: .5rem;
     border: none;
 }
