@@ -65,44 +65,44 @@ Template Name: メディア
                         <img src="<?php echo esc_url( get_theme_file_uri('images/media/20180808.jpg') ); ?>" width="333px" alt="イメージ画像">
                         <div class="card-body">
                         <p class="card-text">2018.8.8(水）20:00-20:55放送<br><br>
-                        サンプラザ中野くんがパーソナリティの番組に<br>
+                        サンプラザ中野くんがパーソナリティの番組に<br class="d-none d-md-block">
                         鬼頭代表理事が出演致しました。<br>
                         <br>
-                        鬼頭流絶対音感メソッドができたきっかけは<br>
-                        な、な、なんと！鬼頭は絶対音感が６歳くらいまでなら<br>
+                        鬼頭流絶対音感メソッドができたきっかけは<br class="d-none d-md-block">
+                        な、な、なんと！鬼頭は絶対音感が６歳くらいまでなら<br class="d-none d-md-block">
                         身につけられることを子どものころから何となく知っていたそうです。<br>
                         <br>
-                        その上で、鬼頭が持つ楽しい絶対音感をどうしたら<br>
-                        子どもたちに教えられるだろうかと考え、3,000人の子どもたちから<br>
-                        物の見え方、聞こえ方、理解の仕方などを調査したということを<br>
+                        その上で、鬼頭が持つ楽しい絶対音感をどうしたら<br class="d-none d-md-block">
+                        子どもたちに教えられるだろうかと考え、3,000人の子どもたちから<br class="d-none d-md-block">
+                        物の見え方、聞こえ方、理解の仕方などを調査したということを<br class="d-none d-md-block">
                         ラジオで聞いて驚きました（笑）<br>
                         <br>
                         鬼頭流絶対音感レッスンは親子コミュニケーションを大切にしていますが<br>
                         <br>
                         <span style="font-weight:bold;color:#ff0000;">「子どもの無限の才能に興味を持ったきっかけは？」</span><br>
                         <br>
-                        というご質問に、鬼頭自身がマタニティだった頃<br>
+                        というご質問に、鬼頭自身がマタニティだった頃<br class="d-none d-md-block">
                         胎児と対話していたからとおっしゃっていました。<br>
                         <br>
-                        おなかの赤ちゃんに<span style="font-weight:bold;">「性別も出産日も教えてもらった」</span>とのことで<br>
+                        おなかの赤ちゃんに<span style="font-weight:bold;">「性別も出産日も教えてもらった」</span>とのことで<br class="d-none d-md-block">
                         いつもおなかに歌い聞かせていた歌があったそうで<br>
                         <br>
-                        生まれてからぐずって泣くときに<br>
+                        生まれてからぐずって泣くときに<br class="d-none d-md-block">
                         その歌を歌ってみると、泣き止んだそうです。<br>
                         耳を傾けて、「ん？」と聞こうとしていたそうですよ。<br>
                         <br>
                         <img src="<?php echo esc_url( get_theme_file_uri('images/media/20180808-2.jpg') ); ?>" width="470px" alt="イメージ画像"><br>
                         <br>
-                        やはりおなかの中の赤ちゃんに<br>
+                        やはりおなかの中の赤ちゃんに<br class="d-none d-md-block">
                         お母さんの声が聞こえているんですね。<br>
                         <br>
-                        ラジオではおっしゃってなかったのですが<br>
+                        ラジオではおっしゃってなかったのですが<br class="d-none d-md-block">
                         「胎教で絵本を読み聞かせするといいよ」とのことです。<br>
                         <br>
-                        マタニティのときから親子コミュニケーションは<br>
+                        マタニティのときから親子コミュニケーションは<br class="d-none d-md-block">
                         始まっているとは驚きです！<br>
                         <br>
-                        子どもたちの不思議な話に、サンプラザ中野くんも<br>
+                        子どもたちの不思議な話に、サンプラザ中野くんも<br class="d-none d-md-block">
                         肉野バンバンジーさんも驚いていらっしゃいました。<br>
                         <br>
                         <img src="<?php echo esc_url( get_theme_file_uri('images/media/20180808-3.jpg') ); ?>" width="322px" alt="イメージ画像"><br>
@@ -114,10 +114,10 @@ Template Name: メディア
                         う。。羨ましいです！<br>
                         <br>
                         <br>
-                        そして、子どもたちへの活動のきっかけとなった曲は<br>
+                        そして、子どもたちへの活動のきっかけとなった曲は<br class="d-none d-md-block">
                         槇原敬之さんの「Wow」をリクエスト。<br>
                         <br>
-                        この曲は１４年ほど前、苦しんでいたときに<br>
+                        この曲は１４年ほど前、苦しんでいたときに<br class="d-none d-md-block">
                         たまたまラジオから流れてきた曲だそうです。<br>
                         <br>
                         「いつもは聞こえてこない歌詞が聞こえた曲」だそうです。<br>
