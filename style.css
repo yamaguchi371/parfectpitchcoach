@@ -402,6 +402,11 @@ img {
 .media-pdf {
     width: 800px;
     height: 1100px;
+    padding: 5px;
+}
+.media-pic a img {
+	height: 210px;
+    padding: 5px;
 }
 /* -------------------------------------------------------------------------------- */
 /*	12.	Sidebar
