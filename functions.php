@@ -100,3 +100,58 @@ function my_function_admin_bar($content) {
   return ( current_user_can("administrator") ) ? $content : false;
 }
 add_filter( 'show_admin_bar' , 'my_function_admin_bar');
+
+// カスタム投稿タイプを登録する関数
+function new_custom_post_type() {
+
+	// カスタム投稿タイプ「blog」
+	register_post_type(
+		'blog',
+		array(
+			'labels' => array(
+				'name' => 'ブログ',
+				'singular_name' => 'blog',
+				'add_new' => '新規追加',
+				'add_new_item' => '新規追加',
+				'edit_item' => '投稿を編集',
+				'new_item' => 'ブログ',
+				'all_items' => '投稿一覧',
+				'view_item' => '投稿を見る',
+				'search_items' => '検索する',
+				'not_found' => '投稿が見つかりませんでした。',
+				'not_found_in_trash' => 'ゴミ箱内に投稿が見つかりませんでした。'
+			),
+			'public' => true,
+			'has_archive' => true,
+			'menu_icon' => 'dashicons-format-chat',
+			'menu_position' => 5,
+			'supports' => array(
+				'title',
+				'editor',
+				'thumbnail'
+			),
+			'rewrite' => true,
+			'taxonomies' => array('blog')
+		)
+	);
+
+	$labels = array(
+		'name'                => 'カテゴリー',
+		'singular_name'       => 'カテゴリー',
+		'search_items'        => 'カテゴリー検索',
+		'all_items'           => '全てのカテゴリー',
+		'parent_item'         => '親カテゴリー',
+		'parent_item_colon'   => '親カテゴリー:',
+		'edit_item'           => 'カテゴリーを編集',
+		'update_item'         => 'カテゴリーを更新',
+		'add_new_item'        => 'カテゴリーを追加',
+		'new_item_name'       => '新規カテゴリー',
+		'menu_name'           => 'カテゴリー'
+	);
+	$args = array(
+		'hierarchical'        => true,
+		'labels'              => $labels,
+	);
+	register_taxonomy( 'blog_cat', 'blog', $args );
+}
+add_action( 'init', 'new_custom_post_type');
