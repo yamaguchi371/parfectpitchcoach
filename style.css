@@ -345,12 +345,15 @@ img {
     opacity: .6;
     transition: .3s
 }
-.kitou-card-box .card-text,.kitou-second-box li,.kitou-third-box p,.overview-box p,.overview-box td  {
+.kitou-card-box .card-text,.kitou-second-box li,.kitou-second-box p,.kitou-third-box p,.overview-box p,.overview-box td  {
     font-size: 16px;
     letter-spacing: .1em;
     line-height: 1.8;
 }
-.kitou-top-box,.kitou-second-box,.kitou-third-box {
+.kitou-top-box {
+    padding-bottom: 50px;
+}
+.kitou-second-box div {
     padding-bottom: 50px;
 }
 .kitou-card-box {
