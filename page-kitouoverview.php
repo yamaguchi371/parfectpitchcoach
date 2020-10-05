@@ -20,7 +20,7 @@ Template Name: 概要ページ
 <div class="container overview-box pb-5">
     <div class="row">
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 section1">
-            <h3 class="heading-sm">代表理事プロフィール</h3>
+            <h3 class="heading-md">代表理事プロフィール</h3>
             <img src="<?php echo esc_url( get_theme_file_uri('images/kitouoverview/section1-img.jpg') ); ?>" alt="プロフィール画像">
             <div>
                 <p>代表理事&emsp;鬼頭&nbsp;敬子<br><br>子育て25年間の中で、幼児教室、ベビーシッターや出会った<br>3,000人以上の子どもたちから心の感じ方、考え方などを聞き、子どもたちの心理を確かめる。<br><br>2007年に2歳からの絶対音感と、ポピュラーピアノPopular Piano Kを設立。</p>
@@ -34,14 +34,14 @@ Template Name: 概要ページ
             </div>
         </div>
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 section2">
-            <h3 class="heading-sm">代表理事のメッセージ</h3>
-            <h4 class="medium">家族は「最小の社会」</h4>
+            <h3 class="heading-md">代表理事のメッセージ</h3>
+            <h3 class="heading-sm">家族は「最小の社会」</h3>
             <div>
                 <p>子どもたちが親に望むことは、「自分を理解し認めてほしい」ということです。<br>親御さんが愛情いっぱいに接しているつもりでも子どもたちにすれば「頑張らなければ認めてもらえないのではないか」<br class="d-none d-xl-block">「自分より仕事の方が大切なんだ」と感じてしまっていることも少なくありません。<br>日々の少しの違いで心が満たされていない子どもたちがどうしたら心を満たされるだろうか・・<br>そんな思いから「鬼頭流絶対音感メソッド」は生まれました。<br><br>多くの親御さんが持たない絶対音感で、２歳のお子さんが音を聴き分けられるようになっていく姿を見て、何も知らないと思っていた子どもが持っている無限の力に驚き、心から褒め、夫婦共に喜びあって初めて家族、親子に絆が生まれます。<br>脳が賢くなると自律（自分で律すること）が早くなるためお子さんとの距離を取りながら、家族それぞれが自律し、応援し合える家族を育んでほしい。そんな家族の笑顔が周りの家族の笑顔に広がり、子どもたちのいじめが減り、社会の笑顔につながっていくこと、<br class="d-none d-xl-block">それが絶対音感コーチ学会の願いです。</p>
             </div>
         </div>
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 section3">
-            <h3 class="heading-sm">学会概要</h3>
+            <h3 class="heading-md">学会概要</h3>
             <div>
                 <table class="table">
                     <tr><td>協会名</td><td>一般社団法人&emsp;絶対音感コーチ学会</td></tr>
