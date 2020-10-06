@@ -348,7 +348,7 @@ img {
     opacity: .6;
     transition: .3s
 }
-.kitou-card-box .card-text,.kitou-second-box li,.kitou-second-box p,.kitou-third-box p,.overview-box p,.overview-box td  {
+.kitou-card-box .card-text,.kitou-second-box li,.kitou-second-box p,.kitou-third-box p,.overview-box p,.overview-box td,.AandR-box p  {
     font-size: 16px;
     letter-spacing: .1em;
     line-height: 1.8;
@@ -413,10 +413,10 @@ img {
     background-color: #fff;
     transition: .3s;
 }
-.overview-box .section1,.overview-box .section2 {
+.overview-box .section1,.overview-box .section2,.AandR-box .section1,.AandR-box .section2 {
     padding-bottom: 50px;
 }
-.overview-box .section1 div,.overview-box .section2 div,.overview-box .section3 div {
+.overview-box .section1 div,.overview-box .section2 div,.overview-box .section3 div,.AandR-box .section1 div,.AandR-box .section2 div,.AandR-box .section3 div {
     padding-top: 20px;
 }
 .overview-box .kitou-btn-box {
