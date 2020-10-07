@@ -1,7 +1,7 @@
 <?php
 
 /*
-Template Name: 個別ページテンプレート
+Template Name: 記憶力ＵＰ
 */
 
 ?>
@@ -9,9 +9,12 @@ Template Name: 個別ページテンプレート
 
 <?php get_header(); ?>
 
-<div class="container">
-    <div class="row">
+<div class="container-fluid bg-gray">
+    <div class="container">
+        <div class="row">
+        </div>
     </div>
 </div>
+
 
 <?php get_footer(); ?>
