@@ -82,7 +82,7 @@
 /* -------------------------------------------------------------------------------- */
 @media screen and (max-width: 575.98px) {
     .heading-lg  {
-        font-weight: 24px;
+        font-size: 24px;
     }
     .heading-sm {
         font-size: 20px;
@@ -110,7 +110,7 @@
 }
 @media screen and (min-width: 576px) and (max-width: 767.98px) {
     .heading-lg  {
-        font-weight: 24px;
+        font-size: 24px;
     }
     .heading-sm {
         font-size: 20px;
